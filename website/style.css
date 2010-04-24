@@ -24,6 +24,7 @@ table {
 	vertical-align: top;
 	text-align: left;
 	padding: 1em 2em;
+        width: 10em;
 }
 
 #menu :link, #menu :visited {
